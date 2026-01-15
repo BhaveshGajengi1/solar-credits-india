@@ -11,7 +11,7 @@
 
 **Democratizing carbon markets for 100 million+ small solar installations across India**
 
-[🚀 Live Demo](#) • [📖 Documentation](#getting-started) • [🎯 Features](#-features) • [🛠️ Tech Stack](#-technology-stack)
+[🚀 Live Demo](#-getting-started) • [📖 Documentation](#-getting-started) • [🎯 Features](#-features) • [🛠️ Tech Stack](#️-technology-stack)
 
 </div>
 
